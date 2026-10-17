@@ -1,1 +1,1 @@
-# PowerAddGridOnn-source
+This mod is an add-on to the Create Power Grid mod. It adds a high-capacity power cable and a block that, when connected correctly, allows you to easily draw shapes—both built-in and custom—on a CRT (Cathode Ray Tube) display. He also adds other blocks, which will appear in future updates.
